@@ -1,0 +1,142 @@
+
+
+Playing Card - Gimp Filter von TinTran
+Kostenloses Gimp Script um Spielkarten
+mit eigenen Motiven zu erstellen.
+
+########################################################
+
+
+
+Ich habe hier ein kostenloses Script von TnTran zum Download für sie.
+Mit diesem Tool können sie Kartenspiele mit eigenem Dekor erstellen. 
+Das Aussehen der Spielkarten kann von ihnen im Scriptmenü  beeinflusst 
+werden. Alle mit dem Tool erzielten Ergebnisse können über 
+die erstellten Ebenen weiter bearbeitet und an ihre Wünsche angepasst 
+werden. Der Filter funktioniert auch mit der Gimp Version 2.10.2 problemlos. 
+Auch unter unserer Testinstallation hat das Script keinerlei Probleme 
+verursacht. Wenn sie ihrer Fantasie etwas Freiraum geben, können wirklich 
+tolle Filterausgaben erstellt werden. Für diesen kostenlosen Filter geht
+natürlich noch ein dickes Dankeschön an den Ersteller TinTran.
+
+
+
+
+Anleitung:
+1. Öffnen sie ein Bild, aus dem sie eine Spielkarte machen möchten.
+
+2. (Optional, aber es wird die Karte besser aussehen lassen). 
+   Zuschneiden / Größe des Bildes mit der Dimension 688 x 1116.
+   Siehe Auswählen eines Rechtecks mit einem bestimmten Seitenverhältnis. 
+      
+3. Run Skript (Diego / Playing Card...). Wählen Sie Ihren Kartenwert aus, wählen 
+   Sie die Farbe der Karte und wählen Sie die Schriftart. OK klicken".
+   
+4) Eventuell weitere Einstellungen vornehmen. (Motiv spiegeln/Karte mit Schatten)
+
+5. Das war es, jetzt wird eine Spielkarte basierend auf Ihren Einstellungen erstellt.
+
+
+
+
+UNSERE TESTINSTALLATION:
+Alle Scripte und Plug-ins sind unter 
+folgender Installation getestet worden:
+WIN 7 64 BIT – Gimp Version 2.8.22
+
+
+
+
+
+
+
+Download direkt "PLAYING-CARD":
+################################################################
+
+<a href="http://gimpchat.de/download/320-PLAYING-CARD-E.zip" target="_blank">Download Playing Card...</a>
+
+
+
+
+
+
+Support "Playing Card":
+################################################################
+
+<a href="http://gimplearn.net/viewtopic.php/Playing-Card-Script-for-GIMP?f=3&t=1451" target="_blank">Support Playing Card...</a>
+
+
+
+
+
+
+Datei:
+###############################
+320-PLAYING-CARD-E.zip
+
+
+
+
+Inhalt
+################################
+playing_card.py
+320-PLAYING-CARD.TXT
+beitrag1.jpg
+
+
+
+Installation:
+##################################
+C:\Benutzer\Name\Gimp 2.8\PY-SCRIPTS
+
+
+
+
+
+Wo finde ich diesen Filter?
+###################################
+Gimp/Diego/Playing Card...
+
+
+
+Vielen Dank für ihren Besuch auf unserer Webseite und ihr Interesse
+an diesem kostenlosen Filter für Gimp. Wir freuen uns jetzt schon auf ihren 
+nächsten Besuch auf unserer Homepage. Natürlich wünschen wir ihnen noch tolle
+Ergebnisse mit diesem PY-Script.
+
+
+
+
+Spielkarten mit Gimp selber erstellen.
+Kostenloses PY-Script von TinTran. 
+PlayingCards mit eigenem Dekor.
+
+
+
+
+Spielkarten selber erstellen, ein neues kostenloser Gimp Filter von TinTran.
+Mit diesem Tool können Spielkarten mit eigener Dekoration erstellt werden.
+Unter unserer Gimp Installation und auch unter der neuen Version 2.10.2
+hat das Tool keine Probleme bereitet oder Fehler produziert. Unsere Tester 
+waren von den Filterausgaben sehr angetan. Alle mit diesem Tool erstellten
+Dateien können über die Ebenen weiter bearbeitet und an ihre Wünsche angepasst 
+werden. Im ausführlichen Filtermenü kann die Ausgabe auch schon sehr schön 
+angepasst werden. Für diesen tollen kostenlosen Filter noch einmal ein 
+Dankeschön an TinTran.
+
+
+
+
+
+Sollten nach dem Download dieser Datei Probleme bei der Installation oder
+der Arbeit mit diesem Tool auftreten, empfehlen wir ihnen den Blog Artikel 
+noch einmal aufmerksam durchzulesen. Unsere Erfahrung zeigt, dass die meisten 
+Probleme nach dem Lesen beantwortet worden sind. Ist das aber nicht der Fall, 
+können sie uns natürlich jederzeit über unsere Kontaktseite erreichen.
+Wir versuchen immer, so schnell wie möglich zu helfen.
+
+
+
+
+
+<a href="http://www.gimpchat.de/kontaktseite/" target="_blank">gimpchat.de Kontaktseite...</a>
