@@ -1,31 +1,37 @@
 ### Scrum Poker Cards
 
-Ich habe mit Gimp und einem Skript  
-Scrum Poker Karten erstellt.  
-Die Bilder wurden mit einem Handy erstellt.  
-Das Python Skript muss in das richtige Verzeichnis gelegt werden.
+In den unendlichen Weiten des Internet habe ich ein Python Skript gefunden.  
+Dieses Skript ist ein Plugin für das Bildbearbeitungsprogramm Gimp.  
+Ich habe das Skript verändert.  
+Mit diesem Skript kann jetzt aus einem Bild eine Scrum Poker Karte erstellt werden.  
 
-<img src="http://bookmarks.suppenterrine.de/scrum/uebersicht1a.png">
+Zu beachten ist, dass das Skript im Python Verzeichnis von Gimp abgelegt werden muss.  
 
-<img src="http://bookmarks.suppenterrine.de/scrum/uebersicht2a.png">
+<img src="http://bookmarks.suppenterrine.de/scrum/uebersicht1a.png">  
 
-Nach den Neustart von Gimp ist ein weiterer Menüpunkt in Gimp vorhanden.
-Öffnet ein Bild und führt das Skript aus.
-Das Python Skript findet ihr unter:
-http://www.gimpchat.de/playing-card-gimp-filter-von-tintran/
+<img src="http://bookmarks.suppenterrine.de/scrum/uebersicht2a.png">  
+
+<img src="http://bookmarks.suppenterrine.de/scrum/20.png">    
+
+Nach den Neustart von Gimp ist ein weiterer Menüpunkt in Gimp vorhanden.  
+Öffnet in Gimp ein Bild und führt das Skript aus.  
+Das Original Python Skript findet ihr unter:  
+http://www.gimpchat.de/playing-card-gimp-filter-von-tintran/  
 
 Viel Spaß Stephan
 
 -----------------------------------
 
-I have with Gimp and a script
-Created Scrum Poker Cards.
-The pictures were taken with a mobile phone.
-The Python script must be placed in the correct directory.
+In the endless expanses of the Internet, I found a Python script.  
+This script is a plugin for the image editor Gimp.  
+I changed the script.  
+This script can now be used to create a scrum poker card from a picture.  
 
-After restarting Gimp, another menu item is available in Gimp.
-Open a picture and execute the script.
-The Python script can be found at:
-http://www.gimpchat.de/playing-card-gimp-filter-von-tintran/
+It should be noted that the script must be stored in the Python directory of Gimp.  
 
-Have fun Stephan
+After restarting Gimp, another menu item is available in Gimp.  
+Open a picture in Gimp and execute the script.  
+The original Python script can be found at:  
+http://www.gimpchat.de/playing-card-gimp-filter-von-tintran/  
+
+Have fun Stephan  
